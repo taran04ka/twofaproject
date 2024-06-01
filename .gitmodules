@@ -1,0 +1,9 @@
+[submodule "twofaapiapp"]
+	path = twofaapiapp
+	url = https://github.com/taran04ka/twofaapiapp.git
+[submodule "twofaapijs"]
+	path = twofaapijs
+	url = https://github.com/taran04ka/twofaapijs.git
+[submodule "twofaapp"]
+	path = twofaapp
+	url = https://github.com/taran04ka/twofaapp.git
