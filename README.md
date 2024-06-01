@@ -43,7 +43,7 @@ This is a JavaScript-based frontend application that interacts with the Rails AP
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/taran04ka/twofaproject.git](https://github.com/taran04ka/twofaproject.git)
+   git clone https://github.com/taran04ka/twofaproject.git
    cd twofaproject
 
 2. **Clone submodule repositories**
