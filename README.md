@@ -6,6 +6,7 @@ This project consists of three nested submodules that together create a comprehe
 
 ### 1. Rails App (Account Management with 2FA)
 https://github.com/taran04ka/twofaapp.git
+
 This is a Ruby on Rails application that provides a full-featured web interface for managing user accounts. It includes functionalities for creating accounts, logging in, and enabling two-factor authentication (2FA). Users can secure their accounts using 2FA during the login process.
 
 **Key Features:**
@@ -16,6 +17,7 @@ This is a Ruby on Rails application that provides a full-featured web interface 
 
 ### 2. Rails API App
 https://github.com/taran04ka/twofaapiapp.git
+
 This submodule is a Ruby on Rails application that provides the same functionalities as the first submodule but through a RESTful API. It is designed to be used as a backend service with no user interface.
 
 **Key Features:**
@@ -26,6 +28,7 @@ This submodule is a Ruby on Rails application that provides the same functionali
 
 ### 3. JavaScript App (Frontend for Rails API)
 https://github.com/taran04ka/twofaapijs.git
+
 This is a JavaScript-based frontend application that interacts with the Rails API App. It serves as the user interface for the API, allowing users to manage their accounts and perform all necessary actions through a web-based client.
 
 **Key Features:**
